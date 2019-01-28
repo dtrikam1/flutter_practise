@@ -1,4 +1,4 @@
-# plural_sight
+# flutter_practise
 
 A new Flutter project.
 
